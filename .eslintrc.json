@@ -9,8 +9,6 @@
         "DEV_SERVER": false
     },
     "settings": {
-        "import": {
-            "resolver": "webpack"
-        }
+        "import/resolver": "webpack"
     }
 }
